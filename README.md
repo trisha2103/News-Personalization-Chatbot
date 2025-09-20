@@ -98,15 +98,6 @@ Open `src/db.ipynb` and run cells in order:
 6. **Daily Brief**  
    Preset section queries + recency filter → Markdown summary (Business / Finance / Health / Entertainment).
 
-
-MIT License
-
-Copyright (c) 2025 …
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction…
-
 ---
 
 ## 🙏 Acknowledgments
